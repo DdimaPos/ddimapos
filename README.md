@@ -2,7 +2,7 @@
 **`Front end developer (React, Nodejs, JavaScript)`**<br/>
 <br/>
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dima_.pos)
-[![gmail account link](https://img.shields.io/badge/Gmail-D55440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![gmail account link](https://img.shields.io/badge/Gmail-D55440?style=for-the-badge&logo=gmail&logoColor=white)](mailto: postoroncadumitru@gmail.com)
 [![Telegram account link](https://img.shields.io/badge/Telegram-2AA2DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dima_pos)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/oij53ehloq0l7x2lzcbkrvm5s?si=3b05ddc42902470d)
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-1668C1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/postoronca-dumitru/)
