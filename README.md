@@ -28,6 +28,8 @@ I am from Republic of Moldova, currently living here.🇲🇩 I am a fan of open
   <img  alt="Linux" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </p>
 
+[![Anurag's GitHub stats-Light](https://github-readme-stats-ddimapos.vercel.app/api?username=DdimaPos\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/DdimaPos/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
 ### 📈 Stats
 <div align="center">
   <img src="https://github-readme-stats-ddimapos.vercel.app/api?username=DdimaPos&show_icons=true&theme=nord" alt="GitHub stats" style="padding: 10px;" />
