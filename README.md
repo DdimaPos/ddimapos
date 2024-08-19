@@ -30,8 +30,8 @@ I am from Republic of Moldova, currently living here.🇲🇩 I am a fan of open
 
 ### 📈 Stats
 <div align="center">
-  <img src="https://github-readme-stats-ddimapos.vercel.app/api?username=DdimaPos&show_icons=true&theme=react" alt="GitHub stats" style="padding: 10px;" />
-  <img src="https://streak-stats.demolab.com?user=DdimaPos&theme=react&border_radius=4.5" alt="GitHub Streak" style="padding: 10px;" />
+  <img src="https://github-readme-stats-ddimapos.vercel.app/api?username=DdimaPos&show_icons=true&theme=rose_pine" alt="GitHub stats" style="padding: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=DdimaPos&theme=rose_pine&border_radius=4.5" alt="GitHub Streak" style="padding: 10px;" />
 </div>
   <!--
 **DdimaPos/ddimapos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
