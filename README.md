@@ -6,8 +6,9 @@
 [![Telegram account link](https://img.shields.io/badge/Telegram-2AA2DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dima_pos)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/oij53ehloq0l7x2lzcbkrvm5s?si=3b05ddc42902470d)
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-1668C1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/postoronca-dumitru/)
-## 💬 About me
+
 ![profile view count](https://komarev.com/ghpvc/?username=DdimaPos)
+## 💬 About me
 
 I am from Republic of Moldova, currently living here.🇲🇩 I am a fan of open-source, JavaScript, Web development and Linux💻. Currently studying at `Technical University of Moldova - English taught honors programme in Software Engineering` also known here as `FAF`🧑‍🎓. When I am coding or studying I prefer to listen great music🎧. After that I can hit gym🏋️, play games🎮 or make plans for my carreer✍️.
 
