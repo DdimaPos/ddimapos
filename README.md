@@ -10,7 +10,7 @@
 ![profile view count](https://komarev.com/ghpvc/?username=DdimaPos)
 ## 💬 About me
 
-I am from Republic of Moldova, currently living here.🇲🇩 I am a fan of open-source, JavaScript, Web development and Linux💻. Currently studying at `Technical University of Moldova - English taught honors programme in Software Engineering` also known here as `FAF`🧑‍🎓. When I am coding or studying I prefer to listen great music🎧. After that I can hit gym🏋️, play games🎮 or make plans for my carreer✍️.
+I am from Republic of Moldova, currently living here.🇲🇩 I am a fan of open-source, JavaScript, Web development and Linux. Currently studying at `Technical University of Moldova - English taught honors programme in Software Engineering` also known here as `FAF`🧑‍🎓. When I am coding or studying I prefer to listen great music. After that I can hit gym, play games or make plans for my carreer✍.
 
 --- 
 
