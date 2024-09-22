@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Postoronca Dumitru
+## Hi there, my name is Postoronca Dumitru
 **`Front end developer (React, Nodejs, JavaScript)`**<br/>
 <br/>
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dima_.pos)
